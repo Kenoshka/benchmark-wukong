@@ -1,0 +1,33 @@
+{
+ "FPSAvg": 117.8,
+ "FPSMax": 180.3,
+ "FPSMin": 60.3,
+ "FPS95": 98.3,
+ "CPUAvg": 77.8,
+ "GPUAvg": 45.8,
+ "VideoMem": 5.1,
+ "GameVer": "1.0.8.14860",
+ "SysVer": "Windows 10 Home 22H2",
+ "CPUModel": "13th Gen Intel(R) Core(TM) i5-13600KF",
+ "GPUModel": "NVIDIA GeForce RTX 4060 Ti",
+ "GpuDriverVer": "566.36",
+ "VideoMemSize": "8 GB",
+ "SysMem": "32 GB",
+ "ScreenMode": 0,
+ "ScreenResolution": "1280 × 720",
+ "QualityLevel": 1,
+ "ImageQuality": 50,
+ "ViewDistance": 5,
+ "Rtx": 0,
+ "Dlss": 3,
+ "InsertFrame": 0,
+ "Dx12": 1,
+ "Records": [
+  { "FrameRate": 100.0, "CPUUsage": 80.0, "GPUUsage": 40.0, "CPUFrameTime": 10.0, "GPUFrameTime": 4.0, "VideoMemoryUsage": 5000 },
+  { "FrameRate": 125.0, "CPUUsage": 78.0, "GPUUsage": 42.0, "CPUFrameTime": 8.0, "GPUFrameTime": 3.5, "VideoMemoryUsage": 5100 },
+  { "FrameRate": 50.0, "CPUUsage": 90.0, "GPUUsage": 30.0, "CPUFrameTime": 20.0, "GPUFrameTime": 19.0, "VideoMemoryUsage": 5300 },
+  { "FrameRate": 110.0, "CPUUsage": 75.0, "GPUUsage": 45.0, "CPUFrameTime": 9.1, "GPUFrameTime": 4.2, "VideoMemoryUsage": 5050 },
+  { "FrameRate": 120.0, "CPUUsage": 77.0, "GPUUsage": 41.0, "CPUFrameTime": 8.3, "GPUFrameTime": 3.9, "VideoMemoryUsage": 5080 },
+  { "FrameRate": 130.0, "CPUUsage": 79.0, "GPUUsage": 39.0, "CPUFrameTime": 7.7, "GPUFrameTime": 3.6, "VideoMemoryUsage": 5120 }
+ ]
+}
